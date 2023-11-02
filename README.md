@@ -1,10 +1,7 @@
 
 ![Texto do seu parágrafo (2)](https://github.com/Wendesondev/wendesondev/assets/137116547/f7cc95be-bc6e-4d97-b0e4-354d0a02158c)
 <p align="center">I ❤️ solve great challenges using tech. <br><br> 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wendesonsilva&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-wendesonsilva.vercel.app/api/top-langs/?username=wendesonsilva&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
