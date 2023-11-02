@@ -1,14 +1,7 @@
 
 ![Texto do seu parágrafo (2)](https://github.com/Wendesondev/wendesondev/assets/137116547/f7cc95be-bc6e-4d97-b0e4-354d0a02158c)
-<p align="center">I ❤️ solve great challenges using tech. <br><br> 
+# <p align="center">  I ❤️ solve great challenges using tech. <br><br>
 
- 
- &nbsp;
- &nbsp;
-
-
-
-## My Skills
 
 #### Main Stack:
 
